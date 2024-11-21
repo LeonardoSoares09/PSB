@@ -6,3 +6,8 @@ scanf
 printf
 
 & 
+
+se declarar ponteiros na funcao, na hora de chamar a funcao chamar com &, (declarar variaveis normal no main)
+
+0 = true
+1 = false
